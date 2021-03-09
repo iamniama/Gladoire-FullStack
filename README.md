@@ -33,3 +33,38 @@ In addition to the journaling feature that was core to OG Gladoire, this new ver
 
 - ### ERD
 ![](assets/gladoire2-ERD.png)
+
+
+## User Stories
+- As a Gladoire User, ISBAT:
+  - ### User Stuff
+  - create a profile with a username, password, and other relevant information
+  - login with a password
+  - logout
+  - create custom text fields for my meditation journal that are personal to me
+      - (Stretch)AND I should only have to enter a thing for those things one time (I want to select previous values, or choose from a list)
+  - manage my own profile
+  - make myself "hidden" (so I don't show up in the "also meditating" list for other users if I don't want to...Privacy please!)
+  - change my password (if google oauth is not used)
+  - use Rich Text in the body of my journal entry 
+  - (Stretch, if time allows) encrypt my journal entries
+  - (Stretch, if time allows) authenticate via Google
+    
+  - ### Meditation Stuff
+  - have a timed meditation session with simple sound loops or a youtube video in the background
+  - see a list of other users who were active (unless I am hidden)
+  - have a new journal entry with date, time, duration, and background at the end of the session that I can edit if I want to
+  - make journal entries for sessions that did not use the timer
+  - see and use my custom fields for journal entries
+  - see my previous entries
+  - edit my previous entries 
+  - (Stretch, if time allows) do a group meditation session with users I am connected to
+  - ### Social Stuff
+  -form connections with other users via the "handshake" (send thanks and get acknowledgement from other user)
+  - send and receive messages with users that I am connected to
+  - end a connection with another user
+  - participate in message board style discussions on various topics
+  - see the most popular and newest message in each category on the home page (and click to go to that thread)
+  - see what/how many users I am connected to are also meditating on the home page (mouseover to see list?)
+  - see if I have new messages on the home page  (and click to see my new messages)
+  - exchange youtube links with my connections that they can directly import those links into their saved list for later use (click, not have to copy/paste a link)
